@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Chalkboard Printer/*
+!/Chalkboard Printer/task/
+/Chalkboard Printer/task/*
+!/Chalkboard Printer/task/task.js
